@@ -5,7 +5,7 @@ This is the team project, made group of students in Buutti Trainee Academy cours
 
 ## MySQL server
 
-**https://dev.mysql.com/downloads/installer/
+**https://dev.mysql.com/downloads/installer/**
 
 ### Windows – Start and Stop MySQL Server
 
