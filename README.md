@@ -35,3 +35,5 @@ This is the team project, made group of students in Buutti Trainee Academy cours
 8.  Copy the Data Directory folder from the Program Data folder.
 9.  Paste the Data Directory folder into your newly created directory.
 10. Restart the MySQL 8.0 service.
+
+# PopSQL
