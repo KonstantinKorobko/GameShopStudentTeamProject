@@ -37,3 +37,8 @@ This is the team project, made group of students in Buutti Trainee Academy cours
 10. Restart the MySQL 8.0 service.
 
 ## Database manage tool: MySQL Workbench or PopSQL (optional).
+
+## Other matherials:
+
+### NuGet for MySql and .Net Core
+*https://mysqlconnector.net/overview/installing/
