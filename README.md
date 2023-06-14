@@ -40,5 +40,8 @@ This is the team project, made group of students in Buutti Trainee Academy cours
 
 ## Other matherials:
 
-### NuGet for MySql and .Net Core
-*https://mysqlconnector.net/overview/installing/
+![add_mysql_to_project_00](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/18f11ac8-c836-478a-ad01-1e2198c6ca18)
+
+![add_mysql_to_project_01](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/42476799-7689-4e60-ad09-2c1aad7f1e97)
+
+![add_mysql_to_project_02](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/d210f2d4-25cb-4c38-b54d-47149eeaa41b)
