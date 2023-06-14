@@ -44,4 +44,5 @@ This is the team project, made group of students in Buutti Trainee Academy cours
 
 ![add_mysql_to_project_01](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/42476799-7689-4e60-ad09-2c1aad7f1e97)
 
-![add_mysql_to_project_02](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/d210f2d4-25cb-4c38-b54d-47149eeaa41b)
+![add_mysql_to_project_02](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/e330b970-880c-402b-b260-89c0e87ef1ae)
+
