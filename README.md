@@ -40,9 +40,6 @@ This is the team project, made group of students in Buutti Trainee Academy cours
 
 ## Other matherials:
 
-![add_mysql_to_project_00](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/18f11ac8-c836-478a-ad01-1e2198c6ca18)
-
-![add_mysql_to_project_01](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/42476799-7689-4e60-ad09-2c1aad7f1e97)
-
-![add_mysql_to_project_02](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/e330b970-880c-402b-b260-89c0e87ef1ae)
+Add MySSql.Data
+![MySql_NetCore](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/f1ed9955-5c32-43b3-b162-b6433dc60ce7)
 
