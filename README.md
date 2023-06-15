@@ -40,6 +40,7 @@ This is the team project, made group of students in Buutti Trainee Academy cours
 
 ## Other matherials:
 
-Add MySSql.Data
+   Add MySSql.Data:
+   
 ![MySql_NetCore](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/f1ed9955-5c32-43b3-b162-b6433dc60ce7)
 
