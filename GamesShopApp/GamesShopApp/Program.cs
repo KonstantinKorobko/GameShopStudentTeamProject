@@ -1,7 +1,10 @@
+using GamesShopApp.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+DBConfiguration.ConnectionString = builder.Configuration["ConnectionStrings:DefaultConnection"];
 
 var app = builder.Build();
 
