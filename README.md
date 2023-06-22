@@ -37,3 +37,10 @@ This is the team project, made group of students in Buutti Trainee Academy cours
 10. Restart the MySQL 8.0 service.
 
 ## Database manage tool: MySQL Workbench or PopSQL (optional).
+
+## Other matherials:
+
+   Add MySql.Data:
+   
+![MySql_NetCore](https://github.com/KonstantinKorobko/GameShopStudentTeamProject/assets/122153674/f1ed9955-5c32-43b3-b162-b6433dc60ce7)
+
